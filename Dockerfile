@@ -1,4 +1,4 @@
-FROM openjdk:latest
+FROM openjdk:8u141
 
 MAINTAINER Alejandro Valdes
 
